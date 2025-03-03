@@ -1,6 +1,5 @@
 # Simple-Element-Card-Game
 
-Elemental Card Combining Game
 The program is designed to create a server and allow multiple clients to play the same game.
 
 README This will explain how to run the CODE
