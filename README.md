@@ -13,5 +13,3 @@ README This will explain how to run the CODE
 
 Also the server will automatically timeout if there is no activity within 3 minutes.
 
-
-Author: Jathan Lazala
